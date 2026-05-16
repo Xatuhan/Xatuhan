@@ -1,6 +1,6 @@
 
 ## Hey, I'm Batuhan 👋
-**Software Engineer & Information Systems Engineering Student**
+**Information Systems Engineering Student**
 
 I’m a 2nd-year **Information Systems Engineering** with a strong interest in
 technology, aiming to gain broad hands-on experience by exploring different technology
@@ -16,8 +16,8 @@ while identifying the field that best matches my skills and long-term career goa
 | Adopet | Mobile pet adoption & tracking platform with Firebase, APIs, and GPS | Kotlin, Firebase | Completed |
 | Energy Management System | Electricity consumption & cost optimization system | C, Algorithms | Completed |
 | Banking System | Console-based banking system with user roles & transactions | Python | In Progress |
-| Python AI Examples | Basic examples of digit classification, CNN, Computer Vision | Python  (Sqlite3, Matplotlib, NumPy Libraries)| Completed, Evolving |
-
+| Python AI Examples | Basic examples of digit classification, CNN, Computer Vision and showing results with  | Python  NumPy, Pandas,Keras Matplotlib, Tensorflow, OpenCV| Completed, Evolving |
+| Python Data Science Libs | Data manipulations with excel tables and Showing accuracy rates of Models that I have been trained | NumPy, Pandas,Keras, Matplotlib| Evolving|
 ---
 
 ## 📂 Other Notable Work
@@ -33,10 +33,12 @@ while identifying the field that best matches my skills and long-term career goa
 
 ## 🏫 Academic Projects & Focus
 
-- AI and Data Science Examples (Python (Matplotlib, NumPy, Tensorflow, Pandas, Matplotlib, OpenCV )
+- AI and Data Science Examples (Python (Matplotlib, NumPy, Tensorflow, Pandas, Matplotlib)
+- Computer Vision (OpenCV, YOLO)
 - Mobile Development
-- Java OOP
-- Firebase-based real-time systems 
+- Java and C# OOP
+- Firebase-based real-time systems
+- MsSQL
 - API & sensor integrations
 
 ---
@@ -44,13 +46,13 @@ while identifying the field that best matches my skills and long-term career goa
 ## 🛠 Tech Stack
 
 **Languages**  
-C · Python · Kotlin · Java
+C · Python · Kotlin · Java · C# · TypeScript
 
 **Frontend**  
 HTML · CSS 
 
 **Backend & Data**  
-Firebase · SQL ( Learning)
+Firebase · MsSQL · PostgreSQL
 
 **Mobile**  
 Android (Kotlin)  
