@@ -33,7 +33,7 @@ while identifying the field that best matches my skills and long-term career goa
 
 ## 🏫 Academic Projects & Focus
 
-- AI Examples (Python (Matplotlib, NumPy))
+- AI and Data Science Examples (Python (Matplotlib, NumPy, Tensorflow, Pandas, Matplotlib, OpenCV )
 - Mobile Development
 - Java OOP
 - Firebase-based real-time systems 
