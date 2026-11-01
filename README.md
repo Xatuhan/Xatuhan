@@ -2,7 +2,7 @@
 ## Hey, I'm Batuhan 👋
 **Information Systems Engineering Student**
 
-I’m a 2nd-year **Information Systems Engineering** with a strong interest in
+I’m a 3rd-year **Information Systems Engineering** with a strong interest in
 technology, aiming to gain broad hands-on experience by exploring different technology
 domains. Seeking opportunities that allow me to observe, learn, and actively contribute,
 while identifying the field that best matches my skills and long-term career goals.
