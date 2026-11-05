@@ -15,6 +15,7 @@ while identifying the field that best matches my skills and long-term career goa
 |------|-------------|-------|--------|
 | The Ark (yazlab1) | 3D adventure game with two independent AI components: an autonomous NavMesh/Raycast companion and a local-LLM NPC (Ollama, Gemma) whose structured JSON decisions drive the game | C#, Unity, Ollama | Completed (team project) |
 | Protein Lif Su | Offline Android tracker for daily protein, fiber and water, with the USDA food dataset and 121 Turkish dishes | Kotlin, Jetpack Compose, Room | In Progress |
+| Private Mobile Project | Mobile computer-vision app with on-device ML and a secure backend | React Native, TensorFlow Lite, Node.js, PostgreSQL | Mobile app working, backend in progress (private) |
 | Borsa | BIST 100 stock screener that scans SMA 50/200 trends and charts the results | Python, Pandas, borsapy, yfinance, Matplotlib | Evolving |
 | Adopet | Mobile pet adoption & tracking platform with Firebase, APIs, and GPS | Kotlin, Firebase | Completed |
 | Energy Management System | Electricity consumption & cost optimization system | C, Algorithms | Completed |
