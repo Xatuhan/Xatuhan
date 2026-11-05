@@ -27,12 +27,12 @@ while identifying the field that best matches my skills and long-term career goa
 | Carbon Footprint Calculator | Calculates electricity cost & carbon emissions | Firebase, Web | Planned |
 | Power Optimization Web App | Tracks appliance usage & energy analytics | Firebase, JS | Planned |
 | Health & Fitness Website | Exercise, diet plans, and healthy recipes | HTML, CSS, JS | Completed |
-| Mobile Energy App | Advanced energy monitoring mobile app | Flutter | Planned |
+
 
 ---
 
 ## 🏫 Academic Projects & Focus
-
+- Network Systems and Cybersecurity
 - AI and Data Science Examples (Python (Matplotlib, NumPy, Tensorflow, Pandas, Matplotlib)
 - Computer Vision (OpenCV, YOLO)
 - Mobile Development
@@ -50,6 +50,7 @@ C · Python · Kotlin · Java · C# · TypeScript
 
 **Frontend**  
 HTML · CSS 
+Vue 
 
 **Backend & Data**  
 Firebase · MsSQL · PostgreSQL
