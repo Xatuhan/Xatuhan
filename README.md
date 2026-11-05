@@ -13,6 +13,9 @@ while identifying the field that best matches my skills and long-term career goa
 
 | Project | What it does | Stack | Status |
 |------|-------------|-------|--------|
+| The Ark (yazlab1) | 3D adventure game with two independent AI components: an autonomous NavMesh/Raycast companion and a local-LLM NPC (Ollama, Gemma) whose structured JSON decisions drive the game | C#, Unity, Ollama | Completed (team project) |
+| Protein Lif Su | Offline Android tracker for daily protein, fiber and water, with the USDA food dataset and 121 Turkish dishes | Kotlin, Jetpack Compose, Room | In Progress |
+| Borsa | BIST 100 stock screener that scans SMA 50/200 trends and charts the results | Python, Pandas, borsapy, yfinance, Matplotlib | Evolving |
 | Adopet | Mobile pet adoption & tracking platform with Firebase, APIs, and GPS | Kotlin, Firebase | Completed |
 | Energy Management System | Electricity consumption & cost optimization system | C, Algorithms | Completed |
 | Banking System | Console-based banking system with user roles & transactions | Python | In Progress |
@@ -31,8 +34,20 @@ while identifying the field that best matches my skills and long-term career goa
 
 ---
 
+## 💼 Experience
+
+**Cyber Security Intern — Web Application Penetration Testing**
+- Performed a web application penetration test following the OWASP Web Security Testing Guide (WSTG), from reconnaissance to exploitation proof-of-concept
+- Identified 14 vulnerabilities (3 critical), including SQL injection, path traversal, stored and reflected XSS, and open redirect
+- Wrote a professional report with risk ratings and prioritized remediation advice
+- Tools: Burp Suite, sqlmap, Gobuster, Kali Linux
+
+---
+
 ## 🏫 Academic Projects & Focus
 - Network Systems and Cybersecurity
+- Web Application Security (OWASP)
+- Game AI with Unity (NavMesh, local LLMs)
 - AI and Data Science Examples (Python (Matplotlib, NumPy, Tensorflow, Pandas, Matplotlib)
 - Computer Vision (OpenCV, YOLO)
 - Mobile Development
@@ -59,7 +74,10 @@ Firebase · MsSQL · PostgreSQL
 Android (Kotlin)  
 
 **Tools & Platforms**  
-Git · GitHub · Android Studio · VS Code · PyCharm
+Git · GitHub · Android Studio · VS Code · PyCharm · Unity · Ollama
+
+**Security**  
+Burp Suite · sqlmap · Gobuster · Kali Linux · Wireshark · Nmap
 
 ---
 
